@@ -1,6 +1,6 @@
 # Feynman-Kac equation for microtubule search process in prometaphase
 
-Authors: Heng Wang (wheng2025@lzu.edu.cn) and Weihua Deng (dengwh@lzu.edu.cn)
+Authors: Heng Wang (wheng2025@lzu.edu.cn) and Yayun Xue and Weihua Deng (dengwh@lzu.edu.cn)
 
 Address: School of Mathematics and Statistics, State Key Laboratory of Natural Product Chemistry, Lanzhou University, Lanzhou 730000, China.
 
