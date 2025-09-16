@@ -13,7 +13,7 @@ python==3.13.5 torch==2.8.0+cu126
 
 In prometaphase, microtubules form the spindle structure through dynamic instability, accurately locating and capturing chromosomes to ensure the equal distribution of genetic material (DNA on chromosomes).
 In this paper, we establish a dynamic model of the microtubule growth-rotation search process by considering the non-local polymerization and depolymerization of microtubules affected by mechanisms such as katanin proteins and kinetochore fibers, and derive the macroscopic equation for the microtubule-kinetochore capture model by imposing appropriate boundary conditions. 
-Further, We derive the Feynman-Kac equations that govern the probability density of the functional for the microtubule growth-rotation search model.
+Further, we derive the Feynman-Kac equations that govern the probability density of the functional for the microtubule growth-rotation search model.
 Finally, we validate the correctness of the derived equations by comparing results from deep learning method with those from Monte Carlo simulations.
 
 # Example
